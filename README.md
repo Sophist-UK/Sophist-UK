@@ -51,6 +51,7 @@ and used the following programming technologies:
 <img title="Typescript" alt="typescript" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 <img title="Nodejs" alt="nodejs" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"/>
 <br/>
+
 and the following server technologies:
 
 <img title="MariaDB" alt="mariadb" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"/>
@@ -76,12 +77,11 @@ As part of all of the above projects I have also used:
 <img title="Bash" alt="bash" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sophist-uk)
-
 ## Support my open source activities
 
 <a href="https://www.buymeacoffee.com/SophistUK"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SophistUK" /></a>
 <a href="https://ko-fi.com/sophistuk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sophistuk" /></a>
 <a href="https://paypal.me/PaulFreeman1960"> <img align="left" src="https://ionicabizau.github.io/badges/paypal.svg" height="50" width="210" alt="PaulFreeman1960" /></a>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sophist-uk&label=Profile%20views&color=0e75b6&style=flat)
