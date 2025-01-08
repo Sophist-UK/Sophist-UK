@@ -39,18 +39,8 @@ Here are some ideas to get you started:
 <br>
 <h2> GitHub Stats </h2>
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&theme=github_dark">
-  <img alt="zvizvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&theme=github_dark">
-</picture>
-</p>
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophist-UK&layout=compact&card_width=445&theme=github_dark">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophist-UK&layout=compact&card_width=445&theme=github_dark">
-</picture>
-</p>
+![Sophist-UK GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&theme=github_dark&show=reviews,discussions_started,discussions_answered#gh-dark-mode-only)
+![Sophist-UK GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&show=reviews,discussions_started,discussions_answered#gh-light-mode-only)
 
 [![PayPal][badge_paypal]][paypal_link]
 [![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
