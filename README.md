@@ -36,9 +36,9 @@ I have contributed to the following Python-based Open Source projects:
 
 and used the following technologies:
 
-<img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img title="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-<img title="wxWidgets" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+<img title="Python" alt="python" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img title="Qt" alt="qt" align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
+<img title="wxWidgets" alt="wx_widgets" align="left" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg"/> </a> </p>
 
 <h3> Web <h3>
 I have contributed to the following Web-focussed Open Source projects:
@@ -49,7 +49,7 @@ I have contributed to the following Web-focussed Open Source projects:
 and used the following technologies:
 
 <img title="PHP" alt="php" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img title="HTML" alt="html" alt="html" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img title="HTML" alt="html" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
 <img title="HTML" alt="html" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 <img title="CSS" alt="css" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
 <img title="CSS" alt="css" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
