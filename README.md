@@ -38,10 +38,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h2> GitHub Stats </h2>
-
-![Sophist-UK GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&theme=github_dark&show=reviews,discussions_started,discussions_answered#gh-dark-mode-only)
-![Sophist-UK GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&show=reviews,discussions_started,discussions_answered#gh-light-mode-only)
-
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&show=reviews,discussions_started,discussions_answered">
+  <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=github_dark">
+  <img alt="zvizvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sophist-UK&count_private=false&show_icons=true&show=reviews,discussions_started,discussions_answered">
+</picture>
+</p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophist-UK&layout=compact&card_width=445&theme=github_dark">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophist-UK&layout=compact&card_width=445&theme=github_dark">
+</picture>
+</p>
 [![PayPal][badge_paypal]][paypal_link]
 [![BuyMeACoffee][badge_buymeacoffee]][buymeacoffee_link]
 [![Website][badge_website]][website_link]
