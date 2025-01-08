@@ -56,9 +56,7 @@ and the following server technologies:
 
 <img title="MariaDB" alt="mariadb" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"/>
 <img title="MySQL" alt="mysql" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img title="MySQL" alt="mysql" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"/>
 <img title="Postgresql" alt="postgresql" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img title="PostgreSQL" alt="postgresql" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg"/>
 <img title="SQLite" alt="sqlite" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 <img title="MongoDB" alt="mongodb" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"/>
 <img title="Docker" alt="docker" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
