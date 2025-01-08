@@ -5,7 +5,7 @@
 <p><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered">
   <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=github_dark">
-  <img alt="zvizvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered">
+  <img alt="Sophist-UK GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered">
 </picture></p>
 <!--<p><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophist-UK&layout=compact&card_width=445">
