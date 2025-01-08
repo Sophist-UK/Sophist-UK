@@ -28,40 +28,59 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with [Visual-Laravel](http://github.com/tranzakt/visual-laravel)
 
 <h2> Skills </h2>
-<img width="40px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-<img width="40px" title="Typescript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
-<img width="40px" title="HTML" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-<img width="40px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-<img width="40px" title="Tailwind" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
-<img width="40px" title="Nodejs" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-<img width="40px" title="MySQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-<img width="40px" title="PostgreSQL" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
-<img width="40px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-<img width="40px" title="Nginx" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
-<img width="40px" title="Linux" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
-<img width="40px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-<img width="40px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+<h3> Python </h3>
+I have contributed to the following Python-based Open Source projects:
+* [Picard music tagger](https://picard.musicbrainz.org)
+* [Picard Plugins]()
+* [Meerk40t laser engraving software](https://github.com/meerk40t/meerk40t/)
+
+and used the following technologies:
+
+<img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img title="Qt" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+<img title="wxWidgets" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+
+<h3> Web <h3>
+I have contributed to the following Web-focussed Open Source projects:
+* [Joomla CMS]()
+* [Fabrik extension for Joomla]()
+* [Visual Laravel](https://github.com/Tranzakt/Visual-Laravel/)
+
+and used the following technologies:
+
+<img title="PHP" alt="php" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+<img title="HTML" alt="html" alt="html" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+<img title="HTML" alt="html" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+<img title="CSS" alt="css" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+<img title="CSS" alt="css" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+<img title="TailwindCSS" alt="tailwind" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+<img title="TailwindCSS" alt="tailwind" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
+<img title="Javascript" alt="javascript" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img title="Javascript" alt="javascript" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+<img title="Typescript" alt="typescript" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
+<img title="Typescript" alt="typescript" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img title="Nodejs" alt="nodejs" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+<img title="NodeJS" alt="nodejs" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<br>
+<img title="MariaDB" alt="mariadb" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"/>
+<img title="MySQL" alt="mysql" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img title="MySQL" alt="mysql" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+<img title="Postgresql" alt="postgresql" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img title="PostgreSQL" alt="postgresql" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
+<img title="SQLite" alt="sqlite" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+<img title="MongoDB" alt="mongodb" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+<img title="Docker" alt="docker" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img title="Nginx" alt="nginx" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg">
+<img title="rabbitMQ" alt="rabbitMQ" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
+<img title="Redis" alt="redis" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/>
+
+<h3> General <h3>
+As part of all of the above projects I have also  
+<img title="GitHub" alt="github" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+<img title="Git" alt="git" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+<img title="Linux" alt="linux" align="left" width="40px" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg">
+<img title="Bash" alt="bash" align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+
 
 <h2> GitHub Stats </h2>
 <p><picture>
