@@ -82,6 +82,6 @@ As part of all of the above projects I have also used:
 <a href="https://www.buymeacoffee.com/SophistUK"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SophistUK" /></a>
 <a href="https://ko-fi.com/sophistuk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sophistuk" /></a>
 <a href="https://paypal.me/PaulFreeman1960"> <img align="left" src="https://ionicabizau.github.io/badges/paypal.svg" height="50" width="210" alt="PaulFreeman1960" /></a>
-<br style="clear:both"/><br/>
+<br style="clear:both"/><br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sophist-uk&label=Profile%20views&color=0e75b6&style=flat)
