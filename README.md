@@ -1,7 +1,8 @@
 <h1 align="center">Passionate about open source, particularly Laravel.</h1>
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/api?username=sophist-uk&title=-Followers&rank=-B,-C)
-<img alt="Github Trophies" src="https://github-readme-stats.vercel.app/api?username=sophist-uk&show_icons=true&count_private=true" />
+<img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=sophist-uk&show_icons=true&count_private=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=RealSyferX&theme=dracula&margin-w=15&amargin-h=15&column=7" alt="RealSyferX GitHub Trophies"/>
 
 <p><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered">
