@@ -1,6 +1,7 @@
 <h1 align="center">Passionate about open source, particularly Laravel.</h1>
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sophist-uk&title=-Followers&rank=-B,-C)
+<img alt="Github Trophies" src="https://github-readme-stats.vercel.app/api?username=sophist-uk&show_icons=true&count_private=true" />
 
 <p><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sophist-UK&show_icons=true&show=reviews,discussions_started,discussions_answered">
@@ -39,7 +40,6 @@ I have contributed to the following Web-focussed Open Source projects:
 * [Joomla CMS]()
 * [Fabrik extension for Joomla]()
 * [Visual Laravel](https://github.com/Tranzakt/Visual-Laravel/)
-* [Laragon]()
 
 and used the following programming technologies:
 
